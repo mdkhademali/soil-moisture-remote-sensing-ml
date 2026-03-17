@@ -14,5 +14,4 @@ can be used to estimate soil moisture using machine learning.
 - Model evaluation and visualization
 - Optional Python preprocessing for satellite rasters
 
-
 © mdkhademali
